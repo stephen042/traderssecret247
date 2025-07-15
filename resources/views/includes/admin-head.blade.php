@@ -10,7 +10,7 @@
 
     <!-- FAVICON -->
     <link rel="shortcut icon" type="image/x-icon"
-        href="{{ asset('home-assets/assets/img/favicon.png') }}">
+        href="{{ asset('home-assets/assets/img/favicon-dark.png') }}">
 
     <!-- TITLE -->
     <title>{{ config('app.name') }} - {{ $title ?? '' }}</title>

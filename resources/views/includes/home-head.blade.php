@@ -14,6 +14,6 @@
     <link rel="stylesheet" href="{{ asset('home-assets/assets/css/responsive.css') }}" />
     <link rel="stylesheet" href="{{ asset('home-assets/assets/css/dark-theme.css') }}" />
     <title> {{ config('app.name') }} - {{ $title ?? '' }}</title>
-    <link rel="icon" type="image/png" href="{{ asset('home-assets/assets/img/favicon.png') }}" />
+    <link rel="icon" type="image/png" href="{{ asset('home-assets/assets/img/favicon-dark.png') }}" />
     <link href="https://cdn.jsdelivr.net/npm/remixicon@3.5.0/fonts/remixicon.css" rel="stylesheet">
 </head>
