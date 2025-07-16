@@ -1,5 +1,6 @@
-{{-- chatway --}}
-<script id="chatway" async="true" src="https://cdn.chatway.app/widget.js?id=70t5JXWr5gjm"></script>
+{{-- jivosite --}}
+<script src="//code.jivosite.com/widget/Qms8ewlWxN" async></script>
+
 
 <!-- Link of JS files -->
 <script type="text/javascript" src="{{ asset('home-assets/translate_a/element.js') }}"></script>
