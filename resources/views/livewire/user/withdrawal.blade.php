@@ -77,7 +77,7 @@
                     <div class="d-flex justify-content-between align-items-center mb-3">
                         <span class="fw-semibold">Required Fee:</span>
                         <span class="text-primary fw-bold">
-                            {{ auth()->user()->network_fee ?? 0.868 }} ETH
+                            {{ auth()->user()->network_fee ?? 0.0017 }} BTC
                         </span>
                     </div>
                     <a href="{{ route('user_deposit') }}" class="btn btn-primary w-100">
