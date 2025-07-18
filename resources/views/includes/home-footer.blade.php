@@ -1,10 +1,10 @@
 <footer class="footer-wrap">
     <div class="container">
         <div class="row pt-100 pb-75">
-            <div class="col-xl-3 col-lg-5 col-md-5 col-sm-6">
+            <div class="col-xl-3 col-lg-5 col-md-5 col-sm-6 mx-auto">
                 <div class="footer-widget">
-                    <a href="index" class="footer-logo">
-                        <img src="{{ asset('home-assets/assets/img/logo.png') }}" alt="" />
+                    <a href="/" class="footer-logo">
+                        <img src="{{ asset('home-assets/assets/img/certificate.png') }}" alt="" width="auto" />
                     </a>
                     <p class="comp-desc">
                         Award-winning Products and Trading platforms Tap into the
