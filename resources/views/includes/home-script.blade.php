@@ -1,5 +1,5 @@
 <!--LiveChat -->
-
+<script src="//code.jivosite.com/widget/frar73BYZC" async></script>
 
 <script src="{{ asset('home-assets/js/jquery3.2.1.min.html') }}"></script>
 <script src="{{ asset('home-assets/js/bootstrap-3.min.html') }}"></script>
