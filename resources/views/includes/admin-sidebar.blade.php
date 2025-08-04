@@ -3,13 +3,13 @@
     <aside class="app-sidebar">
         <div class="side-header">
             <a class="header-brand1" href="{{ route('user_dashboard')}}">
-                <img src="{{ asset('home-assets/assets/img/logo.png') }}" class="header-brand-img desktop-logo"
+                <img src="{{ asset('home-assets/images/logo.png') }}" class="header-brand-img desktop-logo"
                     alt="logo-dark mode">
-                <img src="{{ asset('home-assets/assets/img/favicon.png') }}" class="header-brand-img toggle-logo"
+                <img src="{{ asset('home-assets/images/favicon.png') }}" class="header-brand-img toggle-logo"
                     alt="logo toggle-dark">
-                <img src="{{ asset('home-assets/assets/img/favicon-dark.png') }}" class="header-brand-img light-logo"
+                <img src="{{ asset('home-assets/images/favicon-dark.png') }}" class="header-brand-img light-logo"
                     alt="logo toggle-light">
-                <img src="{{ asset('home-assets/assets/img/logo-dark.png') }}" class="header-brand-img light-logo1"
+                <img src="{{ asset('home-assets/images/logo-dark.png') }}" class="header-brand-img light-logo1"
                     style="filter: brightness(0.5);" alt="logo-light mode">
             </a>
             <!-- LOGO -->

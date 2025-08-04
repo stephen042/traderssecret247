@@ -5,17 +5,17 @@
                 href="javascript:void(0);"></a>
             <div class="responsive-logo">
                 <a href="{{ route('admin_dashboard') }}" class="header-logo">
-                    <img src="{{ asset('home-assets/assets/img/logo-dark.png') }}" class="mobile-logo logo-1"
+                    <img src="{{ asset('home-assets/images/logo-dark.png') }}" class="mobile-logo logo-1"
                         style="filter: brightness(0.5);" width="auto" height="50px" alt="logo">
 
-                    <img src="{{ asset('home-assets/assets/img/logo.png') }}" class="mobile-logo dark-logo-1"
+                    <img src="{{ asset('home-assets/images/logo.png') }}" class="mobile-logo dark-logo-1"
                         width="auto" height="50px" alt="logo">
                 </a>
             </div>
             <!-- sidebar-toggle-->
             <a class="logo-horizontal " href="{{ route('user_dashboard') }}">
-                <img src="{{ asset('home-assets/assets/img/favicon.png') }}" class="mobile-logo dark-logo-1" alt="logo">
-                <img src="{{ asset('home-assets/assets/img/favicon-dark.png') }}" class="mobile-logo logo-1"
+                <img src="{{ asset('home-assets/images/favicon.png') }}" class="mobile-logo dark-logo-1" alt="logo">
+                <img src="{{ asset('home-assets/images/favicon-dark.png') }}" class="mobile-logo logo-1"
                     style="filter: brightness(0.5);" alt="logo">
             </a>
             <!-- LOGO -->
