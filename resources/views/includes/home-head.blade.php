@@ -33,6 +33,16 @@
         body.loaded #preloader {
             display: none;
         }
+
+        @media (max-width: 768px) {
+            .banner-text h1 {
+                font-size: 3rem;
+            }
+
+            .banner-text p {
+                font-size: 2rem;
+            }
+        }
     </style>
 
 
