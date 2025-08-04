@@ -95,5 +95,3 @@
             });
         });
 </script>
-{{-- jivosite --}}
-<script src="//code.jivosite.com/widget/frar73BYZC" async></script>
