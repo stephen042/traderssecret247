@@ -17,11 +17,7 @@
                     <!-- row start -->
                     <div id="overlay"></div>
                     <div class="fullscreen-bg">
-                        {{-- <video autoplay muted loop playsinline class="fullscreen-bg__video">
-                            <source src="{{ asset('home-assets/videos/hero.mp4') }}" type="video/mp4">
-                            Your browser does not support This video.
-                        </video> --}}
-                        <img class="fullscreen-bg__video" src="{{ asset('home-assets/images/bg1.jpg') }}" alt="" srcset="">
+                        <img class="fullscreen-bg__video" src="{{ asset('home-assets/images/bg.jpg') }}"  alt="" srcset="">
                     </div>
                     <div class="col-sm-6 col-lg-6 ">
                         <!-- column start -->

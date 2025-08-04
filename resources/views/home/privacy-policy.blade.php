@@ -7,19 +7,6 @@
 
 <body>
 
-    <!--Preloader starts-->
-    @include('includes.loader')
-    <!--Preloader ends-->
-
-    <!-- Theme Switcher Start -->
-    <div class="switch-theme-mode">
-        <label id="switch" class="switch">
-            <input type="checkbox" onchange="toggleTheme()" id="slider">
-            <span class="slider round"></span>
-        </label>
-    </div>
-    <!-- Theme Switcher End -->
-
     <!-- Header Section Start -->
     <!-- Header Section Start -->
     @include('includes.home-nav')
@@ -53,10 +40,10 @@
                         <div class="single-terms">
                             <h2>Privacy Policy</h2>
                             <p>Introduction</p>
-                            <p>The same as most online companies, Momentum Markets LTD the importance of our client’s
+                            <p>The same as most online companies, TradersSecret LTD the importance of our client’s
                                 privacy. As a financial services firm, we must obtain certain personal and financial
                                 information from the client, in order to setup and service the client accounts.</p>
-                            <p>Momentum Markets LTD makes use of the client’s personal and financial information
+                            <p>TradersSecret LTD makes use of the client’s personal and financial information
                                 exclusively for the following purposes:
                                 <br>
                                 * Verification of the client’s identity<br>
@@ -67,14 +54,14 @@
                                 services that may be of interest and at times offered by third party providers unless
                                 you have opted not to receive such information<br>
                                 * Providing the client with the best quality of customer support<br>
-                                Momentum Markets LTD will never use, disclose, sell, rent or lease the client’s personal
+                                TradersSecret LTD will never use, disclose, sell, rent or lease the client’s personal
                                 and financial information to any third parties except those stated in “Disclosure of
                                 Client’s Personal Information”. Profits, transaction history, net worth or income
                                 information will not be shared by the Company under any circumstances.
                             </p>
                             <p>Disclosure of client's personal information<br>
 
-                                Momentum Markets LTD may disclose the client’s personal information to third-party
+                                TradersSecret LTD may disclose the client’s personal information to third-party
                                 entities in the following cases:<br>
 
                                 * to the Company’s affiliates according to the required extent, mainly for the

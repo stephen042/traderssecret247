@@ -49,7 +49,7 @@
                 <div class="text-center col-sm-12 mb1 wow fadeInUp" data-wow-delay=".8s" data-wow-duration=".5s">
                     <!-- column start -->
                     <br>
-                    <a href="/policy"
+                    <a href="/privacy-policy"
                         style="font-size: 9pt; font-weight: 800; color: #4c9de1;cursor: pointer;">Privacy Policy</a>
                     <br>
                     <p style="font-size: 9pt" class="copyright">
